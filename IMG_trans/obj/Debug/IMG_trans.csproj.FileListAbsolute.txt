@@ -1,0 +1,11 @@
+E:\source\VSproject\IMG_trans\IMG_trans\bin\Debug\IMG_trans.exe.config
+E:\source\VSproject\IMG_trans\IMG_trans\bin\Debug\IMG_trans.exe
+E:\source\VSproject\IMG_trans\IMG_trans\bin\Debug\IMG_trans.pdb
+E:\source\VSproject\IMG_trans\IMG_trans\obj\Debug\IMG_trans.csprojAssemblyReference.cache
+E:\source\VSproject\IMG_trans\IMG_trans\obj\Debug\IMG_trans.Form1.resources
+E:\source\VSproject\IMG_trans\IMG_trans\obj\Debug\IMG_trans.Properties.Resources.resources
+E:\source\VSproject\IMG_trans\IMG_trans\obj\Debug\IMG_trans.csproj.GenerateResource.cache
+E:\source\VSproject\IMG_trans\IMG_trans\obj\Debug\IMG_trans.csproj.CoreCompileInputs.cache
+E:\source\VSproject\IMG_trans\IMG_trans\obj\Debug\IMG_trans.exe
+E:\source\VSproject\IMG_trans\IMG_trans\obj\Debug\IMG_trans.pdb
+E:\source\VSproject\IMG_trans\IMG_trans\obj\Debug\IMG_trans.aboutForm.resources
